@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| [![divaksh](https://github-readme-stats-v4v13a5jn-divaksh.vercel.app/api?username=divaksh&include_all_commits=true&hide_rank=true&hide_border=true&show_icons=true&hide=contribs&theme=chartreuse-dark&custom_title=Divaksh's%20Github%20Stats)](https://divaksh.com) | [![divaksh](https://github-readme-stats-v4v13a5jn-divaksh.vercel.app/api/top-langs/?username=divaksh&layout=compact&hide_border=true&hide=c,perl,assembly,objective-c,c%2B%2B&theme=chartreuse-dark)](https://divaksh.com) |
+| [![divaksh](https://github-readme-stats-v4v13a5jn-divaksh.vercel.app/api?username=divaksh&include_all_commits=true&hide_rank=true&hide_border=true&show_icons=true&hide=contribs&theme=chartreuse-dark&custom_title=Divaksh's%20Github%20Stats)](https://divaksh.com) | [![divaksh](https://github-readme-stats-v4v13a5jn-divaksh.vercel.app/api/top-langs/?username=divaksh&layout=compact&hide_border=true&hide=html,css,c,perl,assembly,objective-c,c%2B%2B&theme=chartreuse-dark)](https://divaksh.com) |
 | --- | --- |
 
 
